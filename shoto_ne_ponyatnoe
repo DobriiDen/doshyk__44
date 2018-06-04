@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Резюме | ВАМ НЕ ПОКАЗАЛОСЬ!</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="header">
+<h1>Dobrii Den!</h1>
+<h3>Веб-разработчик(такой себе)</h3>
+<p><a href="d.b05@icloud.com">d.b05@icloud.com</a></p>
+</div>
+<div id="main">
+<h2>Опыт работы</h2>
+<ul>
+<li>Нету</li>
+</ul>
+<h2>Образование</h2>
+<ul>
+<li>Тоже нету</li>
+</ul>
+<h2>Другие увлечения</h2>
+<ul>
+<li>Футбол</li>
+</ul>
+</div>
+<div id="footer">
+<p>Засулье, Украина +380123456789, <a href="d.b05@icloud.com">d.b05@icloud.com</a></p>
+</div>
+</body>
+</html>
